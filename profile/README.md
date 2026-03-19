@@ -6,12 +6,13 @@
 
 [![Platform Status](https://img.shields.io/badge/Status-Building%20MVP-yellow?style=flat-square)](https://github.com/PharmFindr)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](./LICENSE)
-[![Frontend](https://img.shields.io/badge/Frontend-v0.0.3-blue?style=flat-square)]()
-[![API Gateway](https://img.shields.io/badge/API%20Gateway-v0.0.2-blue?style=flat-square)]()
-[![Auth Service](https://img.shields.io/badge/Auth%20Service-v0.0.2-blue?style=flat-square)]()
+[![Frontend](https://img.shields.io/badge/Frontend-v0.0.4-blue?style=flat-square)]()
+[![API Gateway](https://img.shields.io/badge/API%20Gateway-v0.0.3-blue?style=flat-square)]()
+[![Auth Service](https://img.shields.io/badge/Auth%20Service-v0.0.3-blue?style=flat-square)]()
 [![User Service](https://img.shields.io/badge/User%20Service-v0.0.2-blue?style=flat-square)]()
 [![Company Service](https://img.shields.io/badge/Company%20Service-v0.0.2-blue?style=flat-square)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v0.0.2-blue?style=flat-square)]()
+[![Admin Service](https://img.shields.io/badge/Admin%20Service-v0.0.1-blue?style=flat-square)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v0.0.3-blue?style=flat-square)]()
 [![Redis](https://img.shields.io/badge/Redis-v0.0.1-blue?style=flat-square)]()
 
 ---
