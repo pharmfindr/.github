@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 What is PharmFindr?
+## What is PharmFindr?
 
 PharmFindr is a **pharmaceutical outsourcing intelligence platform** — think *Yelp meets G2 for CDMOs*. We're solving a critical gap in the industry: pharma companies currently rely on scattered directories and expensive consultants to find and evaluate Contract Development and Manufacturing Organizations (CDMOs).
 
@@ -25,19 +25,19 @@ We centralize **FDA compliance data**, **verified peer reviews**, and **capabili
 
 ---
 
-## 🧪 Core Features
+## Core Features
 
 | Feature | Description |
 |---|---|
-| 🔍 **Smart Search** | Filter CDMOs by molecule type, dosage form, country, and service stage |
-| 📊 **FDA Compliance Data** | Integrated 483 inspection history, cGMP status, and regulatory flags |
-| ⭐ **Verified Reviews** | Confidentiality-aware peer reviews built around NDA/CDA constraints |
-| ⚖️ **Side-by-Side Comparison** | Compare up to 3 CDMOs simultaneously across capability and compliance metrics |
-| 🌍 **Global Coverage** | CDMOs across USA, EU, India, China, and more |
+| **Smart Search** | Filter CDMOs by molecule type, dosage form, country, and service stage |
+| **FDA Compliance Data** | Integrated 483 inspection history, cGMP status, and regulatory flags |
+| **Verified Reviews** | Confidentiality-aware peer reviews built around NDA/CDA constraints |
+| **Side-by-Side Comparison** | Compare up to 3 CDMOs simultaneously across capability and compliance metrics |
+| **Global Coverage** | CDMOs across USA, EU, India, China, and more |
 
 ---
 
-## 🏗️ Platform Architecture
+## Platform Architecture
 
 PharmFindr is built on a **7-microservice backend** designed for flexibility and scale:
 
@@ -64,7 +64,7 @@ PharmFindr is built on a **7-microservice backend** designed for flexibility and
 
 ---
 
-## 🎯 Platform Scope
+## Platform Scope
 
 **Molecule Types**
 - Small Molecules (Solid oral, Soft gel, Parenteral, Formulation platforms)
@@ -83,7 +83,7 @@ PharmFindr is built on a **7-microservice backend** designed for flexibility and
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Core platform architecture defined
 - [x] MVP wireframes & requirements
@@ -96,7 +96,7 @@ PharmFindr is built on a **7-microservice backend** designed for flexibility and
 
 ---
 
-## 🤝 Contributing & Partnerships
+## Contributing & Partnerships
 
 We're actively looking for:
 
